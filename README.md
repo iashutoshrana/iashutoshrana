@@ -2,9 +2,7 @@
 
 
 # <p align="center">✨ Welcome to my Digital Space! ✨</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=Ashutosh%20Rana&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
-</p>
+<p align="center"><img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=Ashutosh%20Rana&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" /></p>
 
 ## 🛡️ About Me
 I am a **Cybersecurity Specialist** and **Full-Stack Developer** currently in my final year of B.Tech. I focus on building secure, scalable applications and mastering the intricacies of network defense.
