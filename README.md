@@ -1,4 +1,4 @@
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58a6ff&center=true&vCenter=true&width=435&lines=Hi,+I'm+Ashutosh+Rana;Cybersecurity+Student;Full+Stack+Developer" alt="Typing SVG" /></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58a6ff&center=true&vCenter=true&width=435&lines=Hi,+I'm+Ashutosh+Rana;Cybersecurity+Student;" alt="Typing SVG" /></p>
 
 # <p align="center">✨ Welcome to my Digital Space! ✨</p>
 
