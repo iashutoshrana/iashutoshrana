@@ -35,7 +35,9 @@ I am a **Cybersecurity Specialist** and **Full-Stack Developer** currently in my
 
 
 ### 🛡️ Cybersecurity Tools
-<p align="left"><a href="https://www.kali.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/></a>&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wireshark" width="45" height="45"/>&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/metasploit/metasploit-icon.svg" alt="metasploit" width="45" height="45"/></p>
+| | | |
+| :---: | :---: | :---: |
+| <a href="https://www.kali.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/></a> | <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wireshark" width="50" height="50"/> | <img src="https://www.vectorlogo.zone/logos/metasploit/metasploit-icon.svg" alt="metasploit" width="50" height="50"/> |
 
 ---
 
@@ -60,4 +62,6 @@ I am a **Cybersecurity Specialist** and **Full-Stack Developer** currently in my
 ---
 
 ## 🌐 Connect with Me
-<p align="left"><a href="https://linkedin.com/in/ashutosh-rana-7a0238258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ashutosh Rana" height="30" width="40" /></a>&nbsp;&nbsp;<a href="mailto:ashutoshr1702@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>&nbsp;&nbsp;<a href="https://github.com/iashutoshrana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a></p>
+| | | |
+| :---: | :---: | :---: |
+| <a href="https://linkedin.com/in/ashutosh-rana-7a0238258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ashutosh Rana" height="35" width="45" /></a> | <a href="mailto:ashutoshr1702@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="35" width="45" /></a> | <a href="https://github.com/iashutoshrana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="35" width="45" /></a> |
