@@ -7,31 +7,38 @@
 </p>
 
 ## 🛡️ About Me
-I am a **Cybersecurity Specialist** and **Full-Stack Developer** currently navigating the final year of my B.Tech journey. I bridge the gap between building high-performance web systems and ensuring they are architecturally secure.
+I am a **Cybersecurity Specialist** and **Full-Stack Developer** currently in my final year of B.Tech. I focus on building secure, scalable applications and mastering the intricacies of network defense.
 
-- 🎓 **Education:** B.Tech in CSE (Cybersecurity Specialization)
-- 🔭 **Current Focus:** Advanced DSA & Scalable System Architecture
-- 🛡️ **Interests:** Cryptography, Network Security, and AI-driven Image Synthesis
-- ⚡ **Fun Fact:** I treat debugging like a forensic investigation.
+- 🎓 **Education:** B.Tech in CSE (Cybersecurity)
+- 🔭 **Current Focus:** Advanced DSA & Secure System Design
+- 🛡️ **Interests:** Penetration Testing, Cryptography, and AI Image Synthesis
+- ⚡ **Fun Fact:** I enjoy writing prompts that push AI to its creative limits.
 
 ---
 
 ## 🛠️ My Arsenal
 
-### 💻 Languages & Core
+### 💻 Languages & Logic
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/> </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> </a>
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> </a>
 </p>
 
-### 🌐 Web & Security
+### 🌐 Web Development
 <p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cyber_Security-FF0000?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/> </a>
+  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/> </a>
+  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="45" height="45"/> </a>
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/> </a>
+</p>
+
+### 🛡️ Cybersecurity Tools
+<p align="left">
+  <a href="https://www.kali.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/> </a>
+  <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wireshark" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/metasploit/metasploit-icon.svg" alt="metasploit" width="45" height="45"/>
 </p>
 
 ---
@@ -39,8 +46,8 @@ I am a **Cybersecurity Specialist** and **Full-Stack Developer** currently navig
 ## 📂 Featured Work
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **🎵 Pass-the-Aux** | Real-time collaborative music queue with democratic skip/vote control. | JS, Socket.io |
-| **📝 Exam Project** | Secure technical assessment module for academic evaluations. | Java, DSA |
+| **🎵 Pass-the-Aux** | Real-time collaborative music queue system. | JS, Socket.io |
+| **📝 Exam Project** | Secure technical assessment module. | Java, DSA |
 
 ---
 
@@ -56,11 +63,11 @@ I am a **Cybersecurity Specialist** and **Full-Stack Developer** currently navig
 
 ---
 
-## 🌐 Let's Connect!
-<p align="center">
-  <a href="https://linkedin.com/in/ashutosh-rana-7a0238258"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:ashutoshr1702@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/iashutoshrana"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+## 🌐 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/ashutosh-rana-7a0238258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ashutosh Rana" height="30" width="40" /></a>
+  <a href="mailto:ashutoshr1702@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
+  <a href="https://github.com/iashutoshrana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
 </p>
 
 <p align="center">
