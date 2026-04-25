@@ -15,9 +15,6 @@ I am a **Cybersecurity Specialist** and **Full-Stack Developer** currently in my
 - ⚡ **Fun Fact:** I enjoy writing prompts that push AI to its creative limits.
 
 ---
-## 🛠️ My Arsenal
-
----
 
 ## 🛠️ My Arsenal
 
