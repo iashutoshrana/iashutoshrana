@@ -34,13 +34,8 @@ I am a **Cybersecurity Specialist** and **Full-Stack Developer** currently in my
 ---
 
 
-
 ### 🛡️ Cybersecurity Tools
-<p align="left">
-  <a href="https://www.kali.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/> </a>
-  <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wireshark" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/metasploit/metasploit-icon.svg" alt="metasploit" width="45" height="45"/>
-</p>
+<p align="left"><a href="https://www.kali.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/></a>&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wireshark" width="45" height="45"/>&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/metasploit/metasploit-icon.svg" alt="metasploit" width="45" height="45"/></p>
 
 ---
 
@@ -65,12 +60,4 @@ I am a **Cybersecurity Specialist** and **Full-Stack Developer** currently in my
 ---
 
 ## 🌐 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/ashutosh-rana-7a0238258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ashutosh Rana" height="30" width="40" /></a>
-  <a href="mailto:ashutoshr1702@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
-  <a href="https://github.com/iashutoshrana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/iashutoshrana/iashutoshrana/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+<p align="left"><a href="https://linkedin.com/in/ashutosh-rana-7a0238258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ashutosh Rana" height="30" width="40" /></a>&nbsp;&nbsp;<a href="mailto:ashutoshr1702@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>&nbsp;&nbsp;<a href="https://github.com/iashutoshrana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a></p>
