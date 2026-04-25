@@ -4,12 +4,15 @@
 
 
 ## 🛡️ About Me
-I am a **Cybersecurity Specialist** and **Full-Stack Developer** currently in my final year of B.Tech. I focus on building secure, scalable applications and mastering the intricacies of network defense.
 
-- 🎓 **Education:** B.Tech in CSE (Cybersecurity)
-- 🔭 **Current Focus:** Advanced DSA & Secure System Design
-- 🛡️ **Interests:** Penetration Testing, Cryptography, and AI Image Synthesis
-- ⚡ **Fun Fact:** I enjoy writing prompts that push AI to its creative limits.
+I am a **Computer Science Engineering** student at **Shoolini University** specializing in **Cybersecurity**. With a current **9.0 CGPA**, I combine technical excellence with a disciplined leadership background as an **NCC Under Officer**. My focus is on building secure, scalable applications and mastering network defense through efficient, high-performance code.
+
+- 🎓 **Education:** B.Tech in CSE (Cybersecurity Specialization) at Shoolini University.
+- 🎖️ **Leadership:** **Under Officer** in the National Cadet Corps (NCC) — leading field training and mentoring cadets.
+- 🚀 **Achievements:** 2nd Runner-Up in the **SPRINT Hackathon** & Expert-level certification in **C++**.
+- 🔭 **Current Focus:** Advanced DSA implementation and building real-time collaborative web systems.
+- 🎨 **Creative Side:** National-level representative in **Drawing & Painting**; I apply this detail-oriented eye to UI/UX and high-fidelity AI imagery.
+- ⚡ **Fun Fact:** I treat debugging like a forensic investigation and uniform maintenance like an art form.
 
 ---
 
