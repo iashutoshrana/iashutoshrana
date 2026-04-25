@@ -33,8 +33,8 @@ I am a **Cybersecurity Specialist** and **Full-Stack Developer** currently in my
 
 ### 🛡️ Cybersecurity Tools
 | | | |
-| :---: | :---: | :---: |
-| <a href="https://www.kali.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/></a> | <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wireshark" width="50" height="50"/> | 
+| :---: | 
+| <a href="https://www.kali.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/></a> | 
 
 
 ---
